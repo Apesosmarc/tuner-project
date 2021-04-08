@@ -1,0 +1,336 @@
+<REAPER_PROJECT 0.1 "5.979/x64" 1617907882
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0.03806473712362
+  ZOOM 17154.98514752023 0 0
+  VZOOMEX 9
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Desktop\tunerproj\audio.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {587C69B4-F499-4139-8B2D-B12F296E7AE8}
+    NAME e1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {587C69B4-F499-4139-8B2D-B12F296E7AE8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.01346463195627
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.002915 0 1 0 0
+      FADEOUT 1 0.002915 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C3D44C3B-F2F8-44A5-8551-1F2C8E52522F}
+      IID 15
+      NAME "Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.15309485974301
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57F244AF-907B-4BD0-AC82-D2F726A4D808}
+      <SOURCE MP3
+        FILE "D:\Data Downloads\Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.01346463195627
+      SNAPOFFS 0
+      LENGTH 12.03147600720744
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.002915 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {324F37D7-F450-4252-9F37-841BD64A2552}
+      IID 16
+      NAME "Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.16655949169928
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3EB0A93-347D-4874-9148-27D88FB36015}
+      <SOURCE MP3
+        FILE "D:\Data Downloads\Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3" 1
+      >
+    >
+  >
+  <TRACK {F57E988D-2250-4573-944D-E3A4543D72A1}
+    NAME a2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F57E988D-2250-4573-944D-E3A4543D72A1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 12.16841584072727
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.002915 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A4F94789-1148-4CAE-87CB-DC7416B80B63}
+      IID 17
+      NAME "Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3"
+      VOLPAN 1.014085 0 1 -1
+      SOFFS 12.33158415927274
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93566E90-EFCF-46C7-B803-E0B54EE10A16}
+      <SOURCE MP3
+        FILE "D:\Data Downloads\Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3" 1
+      >
+    >
+  >
+  <TRACK {FE0626D5-B4EC-47E3-ADA9-1D7B0A8D40AD}
+    NAME a3
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FE0626D5-B4EC-47E3-ADA9-1D7B0A8D40AD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.01346463195627
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.001575 0 1 0 0
+      FADEOUT 1 0.002915 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {52C14F41-A4BD-4BE6-A382-6FE92C5C99E3}
+      IID 14
+      NAME "Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 24.68877712816342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AECC99D-7B55-4A2C-AB60-9CE18B650FEF}
+      <SOURCE MP3
+        FILE "D:\Data Downloads\Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.01346463195627
+      SNAPOFFS 0
+      LENGTH 12.07274126371579
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.002915 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {15435299-EBA6-4A4E-93B7-463AF9EEF028}
+      IID 18
+      NAME "Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 24.70224176011969
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EB03F52-CBD4-4097-9004-F4A3E9ED03B1}
+      <SOURCE MP3
+        FILE "D:\Data Downloads\Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3" 1
+      >
+    >
+  >
+  <TRACK {6C3A73A1-7ECF-4C0F-AD7A-E6F0F79B8DBD}
+    NAME a4
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6C3A73A1-7ECF-4C0F-AD7A-E6F0F79B8DBD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.01346463195627
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.001094 0 1 0 0
+      FADEOUT 1 0.002915 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EC1CEF4C-46C9-4F13-84C8-9E60B3394D6C}
+      IID 13
+      NAME "Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.97524990502758
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {084B55B0-062B-43DC-9FDB-B633F6A6FB70}
+      <SOURCE MP3
+        FILE "D:\Data Downloads\Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.01346463195627
+      SNAPOFFS 0
+      LENGTH 13.01128546301615
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.002915 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {457B76DA-DEB0-438B-AA2C-00E5BEA15E9C}
+      IID 19
+      NAME "Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 36.98871453698385
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31CD8F67-2D3D-45D0-8A5F-F23105120536}
+      <SOURCE MP3
+        FILE "D:\Data Downloads\Ultimate Online Bass Guitar Tuner (4 Strings - E A D G Tuning) (320 kbps).mp3" 1
+      >
+    >
+  >
+>

@@ -1,0 +1,69 @@
+@import url("https://css.gg/play-button-r.css");
+
+body {
+  margin: 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+
+.menu {
+  border: 1px solid black;
+  padding: 5rem;
+  border-radius: 6%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-title {
+  margin-top: -70px;
+}
+
+/* FORM STYLING */
+.instrument-select {
+  text-align: center;
+}
+
+form > label {
+  display: inline-block;
+  margin-bottom: 0.3rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+select {
+  margin-bottom: 0.5rem;
+}
+
+input {
+  width: 100px;
+  height: 25px;
+  text-align: center;
+}
+
+/* PLAY SECTION */
+
+.notes {
+  margin-top: 2rem;
+}
+
+.string {
+  width: 300px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+.note {
+  font-size: 2rem;
+  text-transform: capitalize;
+}
+
+.play-btn {
+  width: 80px;
+  height: 80px;
+  font-size: 1.5rem;
+}

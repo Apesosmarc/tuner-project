@@ -11,12 +11,20 @@ audioFiles.forEach((file) => (file.loop = "true"));
 for (let btn of playBtns) {
   btn.addEventListener("click", function () {
     if (btn.id === "e-sound") {
+      this.classList.toggle("play-btn");
+      this.classList.toggle("pause-btn");
       togglePlay(e1);
     } else if (btn.id === "a-sound") {
+      this.classList.toggle("play-btn");
+      this.classList.toggle("pause-btn");
       togglePlay(a2);
     } else if (btn.id === "d-sound") {
+      this.classList.toggle("play-btn");
+      this.classList.toggle("pause-btn");
       togglePlay(d3);
     } else if (btn.id === "g-sound") {
+      this.classList.toggle("play-btn");
+      this.classList.toggle("pause-btn");
       togglePlay(g4);
     }
   });

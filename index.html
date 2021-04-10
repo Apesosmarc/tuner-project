@@ -14,41 +14,34 @@
              <h1>Tune Your Bass</h1>
         </div>
         <form class="instrument-select">
-            <label for="bass-select">Select Your Bass:</label><br>
-                <select name="bass-select" id="">
-                    <option value="stingray">MusicMan Stingray 4-string</option>
-                    <option value="yamaha-six">Yamaha 6-string</option>
-                </select> <br>
-            <label for="style-select">Select Your Style:</label><br>
-                <select name="style-select" id="">
-                    <option value="finger">Finger</option>
-                    <option value="picked">Picked</option>
-                </select><br>
-                <input type="submit" value="Submit">
+          
         </form>
         <section class="notes">
             <div class="string string1"> 
                 <audio id="e1" src="/audio/1e.wav" preload="auto"  ></audio>
                  <h1 class="note">e</h1>
-                 <button class="play-btn" id="e-sound">&#9658;</button>
+                 <button class="play-btn btn" id="e-sound"></button>
+
+                 
             </div>
             <div class="string string2"> 
                 <audio id="a2" src="/audio/2a.mp3" preload="auto"  ></audio>
                  <h1 class="note">a</h1>
-                 <button class="play-btn" id="a-sound">&#9658;</button>
+                 <button class="play-btn btn" id="a-sound"></button>
             </div>
             <div class="string string3"> 
                 <audio id="d3" src="/audio/3d.wav" preload="auto"  ></audio>
                  <h1 class="note">d</h1>
-                 <button class="play-btn" id="d-sound">&#9658;</button>
+                 <button class="play-btn btn" id="d-sound"></button>
             </div>
             <div class="string string4"> 
                 <audio id="g4" src="/audio/4d.wav" preload="auto"  ></audio>
                  <h1 class="note">g</h1>
-                 <button class="play-btn" id="g-sound">&#9658;</button>
+                 <button class="play-btn btn" id="g-sound"></button>
             </div>
 
         </section>
+        <footer>   <img class="jbass" src="/img/headstock.png"></footer>
     </div>
     <script src="app.js"></script>
 </body>

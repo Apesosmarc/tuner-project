@@ -5,25 +5,46 @@ body {
   box-sizing: border-box;
   display: flex;
   justify-content: center;
-  background-color: #f7f7f7;
+  align-content: center;
+  background-color: #80e9ff;
+  color: #333333;
+}
+
+.app-logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: -120px;
+}
+
+.app-icon {
+  background-color: #fff;
+  height: 75px;
+  width: 75px;
+  border: 2px solid #f6f6f7;
+  border-radius: 50%;
+  background-image: url(/img/headstock.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 
 .menu {
-  margin-top: 40px;
-  border: 1px solid black;
+  background: #fff;
+  margin-top: 75px;
+  border: 1px solid #f6f6f7;
   padding: 80px 32px;
   border-radius: 5%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.09), 0 4px 2px rgba(0, 0, 0, 0.09),
-    0 8px 4px rgba(0, 0, 0, 0.09), 0 16px 8px rgba(0, 0, 0, 0.09),
-    0 32px 16px rgba(0, 0, 0, 0.09);
-}
-
-.app-title {
-  margin-top: -70px;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
 
 /* FORM STYLING */
@@ -70,6 +91,11 @@ input {
 .btn {
   height: 80px;
   width: 80px;
+  border: 3px solid #fff;
+}
+
+.btn:hover {
+  background-color: #f6f6f7;
 }
 
 .play-btn::before {
